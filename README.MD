@@ -58,7 +58,6 @@ application_test.csv: Será a base de dados com informações sobre cada solicit
 
 * [RESULTADOS](#acesso-ao-projeto)
 
-![alt text](image.png)
 
 
 ![alt text](image-1.png)
@@ -71,7 +70,6 @@ application_test.csv: Será a base de dados com informações sobre cada solicit
 
 ![alt text](image-5.png)
 
-![alt text](image-6.png)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
 - Python
 
